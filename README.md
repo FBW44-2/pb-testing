@@ -21,6 +21,11 @@ npm run test
 
 Next we check if the output in the therminal has all green tests, or are there any failing tests. If there are failing tests we keep working on our functionality until it is passing all tests.
 
+## TDD
+
+[TDD](https://en.wikipedia.org/wiki/Test-driven_development) stands for test driven development.
+It means we first write our tests, in a way they serve as our specification. Only after we have written tests we start writing code that needs to be passing the tests we wrote.
+
 ## Resources
 
 - [jest](https://jestjs.io/)
